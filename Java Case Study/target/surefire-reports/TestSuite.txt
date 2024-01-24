@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.685 s <<< FAILURE! - in TestSuite
+Setup(TestScript.BaseTest)  Time elapsed: 0.908 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'Browser' is required by BeforeSuite on method Setup but has not been marked @Optional or defined
+
+
